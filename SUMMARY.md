@@ -1,8 +1,10 @@
 # Table of contents
 
+* [Anasayfa](README.md)
+
 ## ACTIVE TESTNETS
 
-* [berachain](README.md)
+* [berachain](<README (1).md>)
 
 ## UPCOMING
 
