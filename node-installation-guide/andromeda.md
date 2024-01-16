@@ -1,4 +1,4 @@
-# berachain
+# andromeda
 
 #### Andromeda Hakkında
 

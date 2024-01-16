@@ -1,4 +1,4 @@
-# berachain
+# quai network
 
 #### Andromeda Hakkında
 
