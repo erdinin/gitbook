@@ -4,7 +4,7 @@
 
 ## ACTIVE TESTNETS
 
-* [berachain](<README (1).md>)
+* [Berachain](<README (1).md>)
 
 ## UPCOMING
 
