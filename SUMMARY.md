@@ -7,6 +7,7 @@
 * [Namada](active-testnets/namada.md)
 * [Pryzm](active-testnets/pryzm.md)
 * [BEVM](active-testnets/bevm.md)
+* [Subsquid](active-testnets/subsquid.md)
 
 ## UPCOMING
 
