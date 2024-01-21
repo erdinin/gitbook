@@ -4,12 +4,12 @@
 
 ## ACTIVE TESTNETS
 
+* [Namada](active-testnets/namada.md)
 * [Pryzm](active-testnets/pryzm.md)
 
 ## UPCOMING
 
 * [Berachain](upcoming/berachain.md)
-* [quai network](upcoming/quai-network.md)
 
 ## node installation guide
 
