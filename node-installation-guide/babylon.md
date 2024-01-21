@@ -2,7 +2,7 @@
 
 #### Babylon Hakkında
 
-> [Twitter](https://twitter.com/babylon\_chain) | [Github](https://github.com/babylonchain) | [Website](https://www.babylonchain.io/) | [Discord](https://discord.gg/babylonchain) | [Explorer](https://babylon.explorers.guru/) | [xyznodes-Validator](https://babylon.explorers.guru/validator/bbnvaloper1c3dqepg3d09laank40dgulv5dzyvp4nfq6h8jd)
+> [Twitter](https://twitter.com/babylon\_chain) | [Github](https://github.com/babylonchain) | [Website](https://www.babylonchain.io/) | [Discord](https://discord.gg/babylonchain) | [Explorer](https://babylon.explorers.guru/) | [xyznodes-Validato](https://babylon.explorers.guru/validator/bbnvaloper1c3dqepg3d09laank40dgulv5dzyvp4nfq6h8jd)r
 
 ***
 
@@ -11,13 +11,13 @@
 #### Minimum Sistem Gereksinimleri
 
 ```
-4CPU 8RAM 100GB
+3CPU 4RAM 80GB
 ```
 
 #### Önerilen Sistem Gereksinimleri
 
 ```
-4CPU 16RAM 200GB
+4CPU 8RAM 160GB
 ```
 
 #### Otomatik Kurulum
