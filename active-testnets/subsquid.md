@@ -2,7 +2,7 @@
 
 **Pryzm Hakkında**
 
-> [**Twitter** ](https://twitter.com/subsquid)**|** [**Github** ](https://github.com/subsquid/squid-sdk)**|** [**Website** ](https://subsquid.io/)**|** [**Discord** ](https://discord.gg/subsquid)**|** [**Blog** ](https://blog.subsquid.io/)**|** [Docs ](https://docs.subsquid.io/)
+> [Twitter ](https://twitter.com/subsquid)| [Github ](https://github.com/subsquid/squid-sdk)| [Website ](https://subsquid.io/)| [Discord ](https://discord.gg/subsquid)| [Blog ](https://blog.subsquid.io/)| [Docs ](https://docs.subsquid.io/)
 
 ***
 
