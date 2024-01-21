@@ -12,6 +12,21 @@
 ## UPCOMING
 
 * [Berachain](upcoming/berachain.md)
+* [Quai Network](upcoming/quai-network.md)
+* [Tea Protocol](upcoming/tea-protocol.md)
+* [Scroll](upcoming/scroll.md)
+* [Taiko](upcoming/taiko.md)
+* [Linea](upcoming/linea.md)
+* [LayerZero](upcoming/layerzero.md)
+* [Base](upcoming/base.md)
+* [zkSync](upcoming/zksync.md)
+* [Starknet](upcoming/starknet.md)
+* [Dusk](upcoming/dusk.md)
+* [Zora](upcoming/zora.md)
+* [Fuel](upcoming/fuel.md)
+* [Lamina1](upcoming/lamina1.md)
+* [Caldera](upcoming/caldera.md)
+* [AltLayer](upcoming/altlayer.md)
 
 ## node installation guide
 
