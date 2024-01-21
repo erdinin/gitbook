@@ -27,6 +27,7 @@
 * [Lamina1](upcoming/lamina1.md)
 * [Caldera](upcoming/caldera.md)
 * [AltLayer](upcoming/altlayer.md)
+* [Polyhedra Network](upcoming/polyhedra-network.md)
 
 ## node installation guide
 
