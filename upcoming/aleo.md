@@ -1,7 +1,5 @@
-# Fleek Network
+# Aleo
 
-#### Fleek Network Hakkında
+#### Aleo Hakkında
 
 > Twitter | Github | Website | Telegram | Discord | Docs | Medium
-
-***

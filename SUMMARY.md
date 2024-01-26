@@ -15,6 +15,7 @@
 * [Quai Network](upcoming/quai-network.md)
 * [Tea Protocol](upcoming/tea-protocol.md)
 * [Scroll](upcoming/scroll.md)
+* [Aleo](upcoming/aleo.md)
 * [Fleek Network](upcoming/fleek-network.md)
 * [Taiko](upcoming/taiko.md)
 * [Linea](upcoming/linea.md)
