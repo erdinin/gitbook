@@ -15,6 +15,7 @@
 * [Quai Network](upcoming/quai-network.md)
 * [Tea Protocol](upcoming/tea-protocol.md)
 * [Scroll](upcoming/scroll.md)
+* [Lava Network](upcoming/lava-network.md)
 * [Aleo](upcoming/aleo.md)
 * [Fleek Network](upcoming/fleek-network.md)
 * [Taiko](upcoming/taiko.md)
@@ -33,6 +34,7 @@
 
 ## node installation guide
 
+* [namada-shielded-expedition](node-installation-guide/namada-shielded-expedition.md)
 * [andromeda](node-installation-guide/andromeda.md)
 * [babylon](node-installation-guide/babylon.md)
 * [base](node-installation-guide/base.md)
