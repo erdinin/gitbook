@@ -24,6 +24,8 @@
 
     cd uniform-load-squid
 
+    npm ci
+
     ## get key tuşuna basıp indirdiğimiz dosyayı; (networkTestOneUniformLoad.key) 
     ./query-gateway/keys klasörüne sağ tuş - Karşıya Yükleme tuşuna basarak yükleyin.
 
