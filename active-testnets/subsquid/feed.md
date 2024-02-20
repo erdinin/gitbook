@@ -80,7 +80,8 @@
     ```jsx
     sqd down
     ```
-* Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz.
+* Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz ve tamamdır.\
+  ![](<../../.gitbook/assets/Untitled (5).png>)
 
 </details>
 
