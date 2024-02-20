@@ -14,8 +14,7 @@
 
 *   Aşağıdaki yönergeleri takip edin.
 
-    ```jsx
-    npm install --global @subsquid/cli@latest
+    <pre class="language-jsx"><code class="lang-jsx">npm install --global @subsquid/cli@latest
 
     sqd --version
     ## @subsquid/cli/2.8.0 linux-x64 node-v20.5.1 ## böyle bir çıktı vermesi gerekir.
@@ -31,11 +30,11 @@
 
     sqd get-peer-id  ## peer id aşağıdaki adımda kullanacağız.
 
-    [**Bu sayfaya**](https://app.subsquid.io/profile/gateways/add?testnet) giderek gerekli alanları dolduralım. Publicly available - kapalı kalacak.
+    <a data-footnote-ref href="#user-content-fn-1">Bu sayfaya</a> giderek gerekli alanları dolduralım. Publicly available - kapalı kalacak.
 
     Yukarıdaki işlem tamamlandıktan sonra [**bu sayfaya**](https://app.subsquid.io/profile/gateways?testnet) yönlendirilmiş olmanız gerekiyor. CU al
     tuşuna basıp 10tSQD kilitliyoruz. 
-    ```
+    </code></pre>
 * Yukarıdaki adımları tamamladıktan sonra en son yönlendirildiğimiz sayfada **Pending Lock** tarafında olan tSQD lerin **Locked** tarafına geçmesini bekliyoruz. Bu yaklaşık 15 dakika kadar sürebiliyor.
 
 <img src="../../.gitbook/assets/Untitled (2).png" alt="" data-size="original">
@@ -84,3 +83,7 @@
 * Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız term
 
 </details>
+
+[^1]: ```
+    https://app.subsquid.io/profile/gateways/add?testnet
+    ```
