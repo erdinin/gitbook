@@ -80,7 +80,7 @@
     ```jsx
     sqd down
     ```
-* Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz ve tamamdır.\
+* Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz ve tamamdır. Gateaway kısmında 10 tSQD miz kaldı onuda unregister diyip geri alabiliriz.\
   ![](<../../.gitbook/assets/Untitled (5).png>)
 
 </details>
