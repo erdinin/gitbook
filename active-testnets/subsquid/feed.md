@@ -32,7 +32,7 @@
 
     <a data-footnote-ref href="#user-content-fn-1">Bu sayfaya</a> giderek gerekli alanları dolduralım. Publicly available - kapalı kalacak.
 
-    Yukarıdaki işlem tamamlandıktan sonra [**bu sayfaya**](https://app.subsquid.io/profile/gateways?testnet) yönlendirilmiş olmanız gerekiyor. CU al
+    Yukarıdaki işlem tamamlandıktan sonra <a data-footnote-ref href="#user-content-fn-2">bu sayfaya</a> yönlendirilmiş olmanız gerekiyor. CU al
     tuşuna basıp 10tSQD kilitliyoruz. 
     </code></pre>
 * Yukarıdaki adımları tamamladıktan sonra en son yönlendirildiğimiz sayfada **Pending Lock** tarafında olan tSQD lerin **Locked** tarafına geçmesini bekliyoruz. Bu yaklaşık 15 dakika kadar sürebiliyor.
@@ -80,10 +80,14 @@
     ```jsx
     sqd down
     ```
-* Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız term
+* Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz.
 
 </details>
 
 [^1]: ```
     https://app.subsquid.io/profile/gateways/add?testnet
+    ```
+
+[^2]: ```
+    https://app.subsquid.io/profile/gateways?testnet
     ```
