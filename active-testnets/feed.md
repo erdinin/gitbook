@@ -1,12 +1,12 @@
-# namada-shielded-expedition
+# 📌 feed
 
-**Namada Hakkında**
+<details>
 
-> [Twitter ](https://twitter.com/namada)| [Github ](https://github.com/anoma/namada)| [Website ](https://namada.net/)| [Discord ](https://discord.gg/namada)| [Telegram ](https://t.me/+uB3fAFC56KIzZDVk)| [Docs ](https://docs.namada.net/)| [Explorer](https://namada.world/)
+<summary>Namada Shielded Expedition</summary>
 
-***
 
-**shielded-expedition.b40d8e9055**
+
+**shielded-expedition.88f17d1d14**
 
 **güncellemeler ve gereklilikler**&#x20;
 
@@ -119,9 +119,9 @@ sed -i '/CBFT/d' "$HOME/.bash_profile"
 ```
 
 ```
-echo "export NAMADA_TAG=v0.28.2" >> ~/.bash_profile
+echo "export NAMADA_TAG=v0.31.5" >> ~/.bash_profile
 echo "export CBFT=v0.37.2" >> ~/.bash_profile
-echo "export NAMADA_CHAIN_ID=public-testnet-15.0dacadb8d663" >> ~/.bash_profile
+echo "export NAMADA_CHAIN_ID=shielded-expedition.88f17d1d14" >> ~/.bash_profile
 echo "export KEY_ALIAS=wallet" >> ~/.bash_profile
 echo "export BASE_DIR=$HOME/.local/share/namada" >> ~/.bash_profile
 ```
@@ -256,3 +256,6 @@ namada client bonds
 namada client slashes
 namadac validator-state --validator $VALIDATOR_ALIAS
 ```
+
+</details>
+

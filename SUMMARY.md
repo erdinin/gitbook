@@ -5,6 +5,7 @@
 ## ACTIVE TESTNETS
 
 * [Namada](active-testnets/namada.md)
+* [📌 feed](active-testnets/feed.md)
 * [Pryzm](active-testnets/pryzm.md)
 * [BEVM](active-testnets/bevm.md)
 * [Subsquid](active-testnets/subsquid/README.md)
@@ -35,7 +36,6 @@
 
 ## node installation guide
 
-* [namada-shielded-expedition](node-installation-guide/namada-shielded-expedition.md)
 * [andromeda](node-installation-guide/andromeda.md)
 * [babylon](node-installation-guide/babylon.md)
 * [base](node-installation-guide/base.md)
