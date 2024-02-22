@@ -305,12 +305,26 @@ namada client bond \
 --amount 20000
 ```
 
-```
-namada client bonded-stake 
-namada client bonds
+<pre><code><strong>namada client bonded-stake 
+</strong>namada client bonds
 namada client slashes
 namadac validator-state --validator $VALIDATOR_ALIAS
+
+</code></pre>
+
+```
+##### ❗❗❗ NODE'U SİLME ❗❗❗ !! #####
+
+cd $HOME && mkdir $HOME/namada_backup
+cp -r $HOME/.local/share/namada/pre-genesis $HOME/namada_backup/
+systemctl stop namadad && systemctl disable namadad
+rm /etc/systemd/system/namada* -rf
+rm $(which namada) -rf
+rm /usr/local/bin/namada* /usr/local/bin/cometbft -rf
+rm $HOME/.namada* -rf
+rm $HOME/.local/share/namada -rf
+rm $HOME/namada -rf
+rm $HOME/cometbft -rf
 ```
 
 </details>
-
