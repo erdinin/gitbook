@@ -4,8 +4,63 @@
 
 <summary>Namada Shielded Expedition</summary>
 
+**23.02.2024 Güncelleme - v0.31.6**
 
+```
+##priv_validator_state.json yedekle.
+##validatörü durdur
+##chain klasörünü sil
+##v0.31.6 ya güncelle
+##join-network yapıp chain dosyasını indir
+##validator_state.json ı yerine koy.
+##chain-id/config.toml daki timeout_precommit_delta = "0ms" (used to be "500ms")
+##node'u başlat ve sync ol.
+```
 
+```
+sudo apt update && sudo apt upgrade -y
+```
+
+```
+sed -i '/NAMADA_TAG/d' "$HOME/.bash_profile"
+NEWTAG=v0.31.6
+echo "export NAMADA_TAG=$NEWTAG" >> ~/.bash_profile
+source ~/.bash_profile
+```
+
+```
+cd $HOME/namada
+git reset --hard HEAD
+git fetch
+git checkout $NAMADA_TAG
+make build-release
+```
+
+```
+systemctl stop namadad
+rm /usr/local/bin/namada /usr/local/bin/namadac /usr/local/bin/namadan /usr/local/bin/namadaw /usr/local/bin/namadar -rf
+```
+
+```
+cd $HOME && cp "$HOME/namada/target/release/namada" /usr/local/bin/namada && \
+cp "$HOME/namada/target/release/namadac" /usr/local/bin/namadac && \
+cp "$HOME/namada/target/release/namadan" /usr/local/bin/namadan && \
+cp "$HOME/namada/target/release/namadaw" /usr/local/bin/namadaw && \
+cp "$HOME/namada/target/release/namadar" /usr/local/bin/namadar
+```
+
+```
+namada --version
+##Namada v0.31.6
+```
+
+```
+sudo systemctl restart namadad && sudo journalctl -u namadad -f -o cat
+```
+
+***
+
+\
 **shielded-expedition.88f17d1d14**
 
 **güncellemeler ve gereklilikler**&#x20;
