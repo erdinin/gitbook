@@ -4,17 +4,17 @@
 
 ## ACTIVE TESTNETS
 
-* [Namada](active-testnets/namada.md)
-* [📌 feed](active-testnets/feed.md)
+* [Namada](active-testnets/namada/README.md)
+  * [📌 feed](active-testnets/namada/feed.md)
 * [Pryzm](active-testnets/pryzm.md)
 * [BEVM](active-testnets/bevm.md)
 * [Subsquid](active-testnets/subsquid/README.md)
   * [📌 feed](active-testnets/subsquid/feed.md)
+* [Berachain](active-testnets/berachain/README.md)
+  * [📌 feed](active-testnets/berachain/feed.md)
 
 ## UPCOMING
 
-* [Berachain](upcoming/berachain/README.md)
-  * [📌 feed](upcoming/berachain/feed.md)
 * [Quai Network](upcoming/quai-network.md)
 * [Tea Protocol](upcoming/tea-protocol.md)
 * [Scroll](upcoming/scroll.md)
