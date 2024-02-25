@@ -14,6 +14,10 @@
 * [https://galxe.com/Berachain/campaign/GCjGGttCAG](https://galxe.com/Berachain/campaign/GCjGGttCAG) görevlerine gidip görevleri yapın. (C,D,D,D,A) Galxe'i komple bir kontrol edin. https://galxe.com/Berachain şeklinde.
 * [https://thirdweb.com/dashboard/contracts/deploy](https://thirdweb.com/dashboard/contracts/deploy) adresine gidip cüzdan bağlayın Contract Deploy a basın. Token kısımını seçin. Deploy now a basın. Gerekli yerleri doldurun. Trusted Forwarders kısımı "Set Default"  sonra Deploy Now a basın.
 * Deploy işlemi başarılı olunca sizi bir sayfaya yönlendirecek. Bu sayfada Token - Mint - Token Supply gir - Mint Tokens. Sırasıyla bunları yapın. Burn, airdrop ve transfer işlemlerini deneyin.
+* [https://artio.station.berachain.com/delegate](https://artio.station.berachain.com/delegate) e gidip token delege edin.&#x20;
+* [https://artio.station.berachain.com/governance](https://artio.station.berachain.com/governance) oylamalarda oy kullanın.
+* [https://faucet.0xhoneyjar.xyz/mint](https://faucet.0xhoneyjar.xyz/mint) mintleyin. [https://faucet.0xhoneyjar.xyz/badges](https://faucet.0xhoneyjar.xyz/badges) claim edin. [https://faucet.0xhoneyjar.xyz/quests](https://faucet.0xhoneyjar.xyz/quests) görevleri yapın.
+* [https://faucet.0xhoneyjar.xyz/lny](https://faucet.0xhoneyjar.xyz/lny) mintleyin. Cüzdanda en az 3 Nft olsun.
 
 
 
