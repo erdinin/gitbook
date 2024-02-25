@@ -13,7 +13,8 @@
 
 ## UPCOMING
 
-* [Berachain](upcoming/berachain.md)
+* [Berachain](upcoming/berachain/README.md)
+  * [📌 feed](upcoming/berachain/feed.md)
 * [Quai Network](upcoming/quai-network.md)
 * [Tea Protocol](upcoming/tea-protocol.md)
 * [Scroll](upcoming/scroll.md)
