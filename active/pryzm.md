@@ -1,6 +1,6 @@
 # Pryzm
 
-**Pryzm Hakkında**
+#### **Pryzm Hakkında**
 
 {% hint style="success" %}
 [**Twitter**](https://twitter.com/BTClayer2) **|** [**Github**](https://github.com/btclayer2/BEVM) **|** [**Website** ](https://www.bevm.io/)**|** [**Discord**](https://discord.com/invite/AGcRqkTBAV) **|** [**Docs**](https://documents.bevm.io/) **|** [**Explorer**](https://testnet.itrocket.net/pryzm/staking)

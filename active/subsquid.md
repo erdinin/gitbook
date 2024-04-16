@@ -1,6 +1,6 @@
 # Subsquid
 
-**Subsquid Hakkında**
+#### **Subsquid Hakkında**
 
 {% hint style="success" %}
 [**Twitter**](https://twitter.com/subsquid) **|** [**Github**](https://github.com/subsquid) **|** [**Website**](https://subsquid.io/) **|** [**Discord**](https://discord.gg/subsquid) **|** [**Telegram**](https://t.me/subsquid) **|** [**Docs**](https://docs.subsquid.io/) **|** [**Explorer**](https://docs.subsquid.io/squid-cli/explorer/)

@@ -1,6 +1,6 @@
 # Berachain
 
-**Berachain Hakkında**
+#### **Berachain Hakkında**
 
 {% hint style="success" %}
 [**Twitter**](https://twitter.com/berachain) **|** [**Github**](https://github.com/berachain) **|** [**Website**](https://www.berachain.com/) **|** [**Discord**](https://discord.com/invite/berachain) **|** [**Telegram**](https://t.me/BerachainPortal) **|** [**Docs**](https://docs.berachain.com/) **|** [**Explorer**](https://docs.berachain.com/developers/beratrail-block-explorer)
