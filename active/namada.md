@@ -3,11 +3,11 @@
 #### **Namada Hakkında**
 
 {% hint style="success" %}
-[Twitter](https://twitter.com/namada) | [Github](https://github.com/anoma/namada) | [Website](https://namada.net/) | [Discord](https://discord.gg/namada) | [Telegram](https://t.me/+uB3fAFC56KIzZDVk) | [Docs](https://docs.namada.net/) | [Explorer](https://namada.info/)
+[**Twitter**](https://twitter.com/namada) **|** [**Github**](https://github.com/anoma/namada) **|** [**Website**](https://namada.net/) **|** [**Discord**](https://discord.gg/namada) **|** [**Telegram**](https://t.me/+uB3fAFC56KIzZDVk) **|** [**Docs**](https://docs.namada.net/) **|** [**Explorer**](https://namada.info/)
 {% endhint %}
 
 {% hint style="info" %}
-**Namada Anoma Vakfı tarafından geliştirilen IBC uyumlu, zk teknolojisi kullanan Ethereum ile iki yönlü bir köprü ile çalışan asset-agnostic gizlilik sağlayan bir katman 1 blokzincir projesidir.**
+**Namada,** Anoma Vakfı tarafından geliştirilen IBC uyumlu, zk teknolojisi kullanan Ethereum ile iki yönlü bir köprü ile çalışan **asset-agnostic** gizlilik sağlayan bir **katman 1** blokzincir projesidir.
 {% endhint %}
 
 ***

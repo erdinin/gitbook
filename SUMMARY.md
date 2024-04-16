@@ -4,6 +4,7 @@
 
 ## active
 
+* [Avail](active/avail.md)
 * [Namada](active/namada.md)
 * [Subsquid](active/subsquid.md)
 * [Berachain](active/berachain.md)
@@ -13,12 +14,9 @@
 
 ## UPCOMING
 
-* [Quai Network](upcoming/quai-network.md)
 * [Tea Protocol](upcoming/tea-protocol.md)
 * [Aleo](upcoming/aleo.md)
 * [Fleek Network](upcoming/fleek-network.md)
-* [Taiko](upcoming/taiko.md)
-* [Dusk](upcoming/dusk.md)
 * [Zora](upcoming/zora.md)
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
