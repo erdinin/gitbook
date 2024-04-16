@@ -6,7 +6,6 @@
 
 * [Namada](active-testnets/namada/README.md)
   * [📌 feed](active-testnets/namada/feed.md)
-* [Pryzm](active-testnets/pryzm.md)
 * [BEVM](active-testnets/bevm.md)
 * [Subsquid](active-testnets/subsquid/README.md)
   * [📌 feed](active-testnets/subsquid/feed.md)
@@ -26,14 +25,12 @@
 * [LayerZero](upcoming/layerzero.md)
 * [Base](upcoming/base.md)
 * [zkSync](upcoming/zksync.md)
-* [Starknet](upcoming/starknet.md)
 * [Dusk](upcoming/dusk.md)
 * [Zora](upcoming/zora.md)
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
 * [Caldera](upcoming/caldera.md)
-* [AltLayer](upcoming/altlayer.md)
-* [Polyhedra Network](upcoming/polyhedra-network.md)
+* [Pryzm](upcoming/pryzm.md)
 
 ## node installation guide
 
