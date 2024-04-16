@@ -1,6 +1,6 @@
 # Initia
 
-#### **Layer N Hakkında**
+#### **Initia Hakkında**
 
 {% hint style="success" %}
 **Twitter | Github | Website | Discord | Telegram | Docs | Explorer**

@@ -1,6 +1,6 @@
 # Mitosis
 
-#### **Layer N Hakkında**
+#### **Mitosis Hakkında**
 
 {% hint style="success" %}
 **Twitter | Github | Website | Discord | Telegram | Docs | Explorer**
