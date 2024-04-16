@@ -9,6 +9,7 @@
 * [Berachain](active/berachain.md)
 * [Pryzm](active/pryzm.md)
 * [Lava Network](active/lava-network.md)
+* [Babylon](active/babylon.md)
 
 ## UPCOMING
 
@@ -22,13 +23,12 @@
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
 
-## node installation guide
+## finished
 
-* [BEVM](node-installation-guide/bevm.md)
-* [andromeda](node-installation-guide/andromeda.md)
-* [base](node-installation-guide/base.md)
-* [dymension](node-installation-guide/dymension.md)
-* [gitopia](node-installation-guide/gitopia.md)
-* [babylon](node-installation-guide/babylon.md)
-* [nibiru](node-installation-guide/nibiru.md)
-* [ojo](node-installation-guide/ojo.md)
+* [BEVM](finished/bevm.md)
+* [andromeda](finished/andromeda.md)
+* [base](finished/base.md)
+* [dymension](finished/dymension.md)
+* [gitopia](finished/gitopia.md)
+* [nibiru](finished/nibiru.md)
+* [ojo](finished/ojo.md)
