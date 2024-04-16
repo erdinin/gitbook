@@ -1,6 +1,6 @@
 # Source
 
-#### **Namada Hakkında**
+#### **Source Hakkında**
 
 {% hint style="success" %}
 **Twitter | Github | Website | Discord | Telegram | Docs | Explorer**
