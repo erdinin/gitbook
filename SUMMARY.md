@@ -5,6 +5,7 @@
 ## active
 
 * [0G Labs](active/0g-labs.md)
+* [Source](active/source.md)
 * [Aligned Layer](active/aligned-layer.md)
 * [CrossFi](active/crossfi.md)
 * [Waku](active/waku.md)
@@ -18,8 +19,10 @@
 
 ## UPCOMING
 
-* [Fuel](upcoming/fuel.md)
-* [Lamina1](upcoming/lamina1.md)
+* [Layer N](upcoming/layer-n.md)
+* [Mitosis](upcoming/mitosis.md)
+* [Initia](upcoming/initia.md)
+* [Espresso](upcoming/espresso.md)
 
 ## finished
 
