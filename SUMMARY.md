@@ -4,6 +4,9 @@
 
 ## active
 
+* [0G Labs](active/0g-labs.md)
+* [Aligned Layer](active/aligned-layer.md)
+* [CrossFi](active/crossfi.md)
 * [Waku](active/waku.md)
 * [Avail](active/avail.md)
 * [Namada](active/namada.md)
@@ -15,9 +18,6 @@
 
 ## UPCOMING
 
-* [Tea Protocol](upcoming/tea-protocol.md)
-* [Fleek Network](upcoming/fleek-network.md)
-* [Zora](upcoming/zora.md)
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
 
