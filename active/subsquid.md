@@ -1,4 +1,16 @@
-# 📌 feed
+# Subsquid
+
+**Subsquid Hakkında**
+
+{% hint style="success" %}
+[**Twitter**](https://twitter.com/subsquid) **|** [**Github**](https://github.com/subsquid) **|** [**Website**](https://subsquid.io/) **|** [**Discord**](https://discord.gg/subsquid) **|** [**Telegram**](https://t.me/subsquid) **|** [**Docs**](https://docs.subsquid.io/) **|** [**Explorer**](https://docs.subsquid.io/squid-cli/explorer/)
+{% endhint %}
+
+{% hint style="info" %}
+**Subsquid Network,** büyük hacimli verilerin toplu olarak çıkarılması için optimize edilmiş merkezi olmayan bir sorgu motorudur. Şu anda 100'den fazla [EVM](https://docs.subsquid.io/subsquid-network/reference/evm-networks) ve [Substrate](https://docs.subsquid.io/subsquid-network/reference/substrate-networks) ağının yanı sıra [Starknet'ten](https://docs.subsquid.io/subsquid-network/reference/starknet-api) alınan geçmiş zincir içi verileri sunmaktadır . Veriler kapsamlıdır: örneğin EVM'de olay günlükleri, işlem makbuzları, izlemeler ve işlem başına durum farkları bulunur.
+{% endhint %}
+
+***
 
 <details>
 
@@ -6,11 +18,11 @@
 
 * https://app.subsquid.io/quests adresine gidiyoruz ve **Get Key** tuşuna basıp, keyi indiriyoruz.
 
-<img src="../../.gitbook/assets/Untitled.png" alt="" data-size="original">
+<img src="../.gitbook/assets/Untitled.png" alt="" data-size="original">
 
 * https://github.com/codespaces e gidip. Blank - Use this template’e basıyoruz. Biraz bekledikten sonra terminal ekranı açılacak.
 
-<img src="../../.gitbook/assets/Untitled (1).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Untitled (1).png" alt="" data-size="original">
 
 *   Aşağıdaki yönergeleri takip edin.
 
@@ -37,7 +49,7 @@
     </code></pre>
 * Yukarıdaki adımları tamamladıktan sonra en son yönlendirildiğimiz sayfada **Pending Lock** tarafında olan tSQD lerin **Locked** tarafına geçmesini bekliyoruz. Bu yaklaşık 15 dakika kadar sürebiliyor.
 
-<img src="../../.gitbook/assets/Untitled (2).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Untitled (2).png" alt="" data-size="original">
 
 *   tSQD’lerimiz Locked tarafına geçtikten sonra terminale dönüp aşağıdaki işlemleri yapıyoruz.
 
@@ -73,7 +85,7 @@
     ```
 * Ardından Dashboard kısmına dönüp, görevin altındaki % nin tamamlanmasını beklemek kalıyor. Tamamlandıktan sonra claim ediyoruz.
 
-<img src="../../.gitbook/assets/Untitled (3).png" alt="" data-size="original">
+<img src="../.gitbook/assets/Untitled (3).png" alt="" data-size="original">
 
 *   Görevimiz tamamlandıktan sonra terminale dönüyoruz ve **ctrl c** tuşuna basıyoruz ve aşağıdaki komutu yazıyoruz.
 
@@ -81,7 +93,7 @@
     sqd down
     ```
 * Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz ve tamamdır. Gateaway kısmında 10 tSQD miz kaldı onuda unregister diyip geri alabiliriz.\
-  ![](<../../.gitbook/assets/Untitled (5).png>)
+  ![](<../.gitbook/assets/Untitled (5).png>)
 
 </details>
 
@@ -90,9 +102,15 @@
 <summary>Run Network Test Two</summary>
 
 * https://app.subsquid.io/quests adresine gidiyoruz ve **Get Key** tuşuna basıp, keyi indiriyoruz.\
-  ![](<../../.gitbook/assets/image (4).png>)
+  ![](<../.gitbook/assets/image (4).png>)
+
+<!---->
+
 * https://github.com/codespaces e gidip. Blank - Use this template’e basıyoruz. Biraz bekledikten sonra terminal ekranı açılacak.\
-  <img src="../../.gitbook/assets/Untitled (1).png" alt="" data-size="original">
+  <img src="../.gitbook/assets/Untitled (1).png" alt="" data-size="original">
+
+<!---->
+
 *   Aşağıdaki yönergeleri takip edin.\
 
 
@@ -120,7 +138,7 @@
 
     * Yukarıdaki adımları tamamladıktan sonra en son yönlendirildiğimiz sayfada **Pending Lock** tarafında olan tSQD lerin **Locked** tarafına geçmesini bekliyoruz. Bu yaklaşık 15 dakika kadar sürebiliyor.
 
-    <img src="../../.gitbook/assets/Untitled (2).png" alt="" data-size="original">
+    <img src="../.gitbook/assets/Untitled (2).png" alt="" data-size="original">
 
     *   tSQD’lerimiz Locked tarafına geçtikten sonra terminale dönüp aşağıdaki işlemleri yapıyoruz.
 
@@ -158,7 +176,7 @@
         ```
     * Ardından Dashboard kısmına dönüp, görevin altındaki % nin tamamlanmasını beklemek kalıyor. Tamamlandıktan sonra claim ediyoruz.
 
-    <img src="../../.gitbook/assets/Untitled (3).png" alt="" data-size="original">
+    <img src="../.gitbook/assets/Untitled (3).png" alt="" data-size="original">
 
     *   Görevimiz tamamlandıktan sonra terminale dönüyoruz ve **ctrl c** tuşuna basıyoruz ve aşağıdaki komutu yazıyoruz.
 
@@ -166,11 +184,19 @@
         sqd down
         ```
     * Son olarak Codespaces blank dediğimiz ekrana gidip kullandığımız terminali siliyoruz ve tamamdır. Gateaway kısmında 10 tSQD miz kaldı onuda unregister diyip geri alabiliriz.\
-      ![](<../../.gitbook/assets/Untitled (5).png>)
+      ![](<../.gitbook/assets/Untitled (5).png>)
 
 </details>
 
+<details>
 
+<summary>Subsquid Points Program</summary>
+
+15 Nisan itibariyle Subsquid Points Program adını taşıyan bir etkinlik başlattı. Bu etkinlikte 6,685,000 adet [$SQD](https://twitter.com/search?q=%24SQD\&src=cashtag\_click) dağıtılacak. Snapshot ise 13 Mayısta alınacak. \
+**link   :** [https://points.subsquid.io](https://t.co/WiF0Z2i4su)\
+**detay:** [https://twitter.com/xyznodes/status/1780014407893836283](https://twitter.com/xyznodes/status/1780014407893836283)
+
+</details>
 
 [^1]: ```
     https://app.subsquid.io/profile/gateways/add?testnet

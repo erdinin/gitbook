@@ -5,9 +5,8 @@
 ## active
 
 * [Namada](active/namada.md)
+* [Subsquid](active/subsquid.md)
 * [BEVM](active/bevm.md)
-* [Subsquid](active/subsquid/README.md)
-  * [📌 feed](active/subsquid/feed.md)
 * [Berachain](active/berachain/README.md)
   * [📌 feed](active/berachain/feed.md)
 

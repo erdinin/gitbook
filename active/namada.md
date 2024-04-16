@@ -12,6 +12,10 @@
 
 ***
 
+<details>
+
+<summary>Kurulum Rehberi</summary>
+
 #### Sistem Gereksinimleri
 
 ```csharp
@@ -20,12 +24,6 @@ RAM	  16GB
 Storage	  1TB
 OS	  Ubuntu 22.04
 ```
-
-<details>
-
-<summary>Kurulum Rehberi</summary>
-
-
 
 **Paket Güncellemeleri ve Bağımlılklar**
 
