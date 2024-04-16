@@ -2,34 +2,27 @@
 
 * [Homepage](README.md)
 
-## ACTIVE TESTNETS
+## active
 
-* [Namada](active-testnets/namada/README.md)
-  * [📌 feed](active-testnets/namada/feed.md)
-* [BEVM](active-testnets/bevm.md)
-* [Subsquid](active-testnets/subsquid/README.md)
-  * [📌 feed](active-testnets/subsquid/feed.md)
-* [Berachain](active-testnets/berachain/README.md)
-  * [📌 feed](active-testnets/berachain/feed.md)
+* [Namada](active/namada.md)
+* [BEVM](active/bevm.md)
+* [Subsquid](active/subsquid/README.md)
+  * [📌 feed](active/subsquid/feed.md)
+* [Berachain](active/berachain/README.md)
+  * [📌 feed](active/berachain/feed.md)
 
 ## UPCOMING
 
 * [Quai Network](upcoming/quai-network.md)
 * [Tea Protocol](upcoming/tea-protocol.md)
-* [Scroll](upcoming/scroll.md)
 * [Lava Network](upcoming/lava-network.md)
 * [Aleo](upcoming/aleo.md)
 * [Fleek Network](upcoming/fleek-network.md)
 * [Taiko](upcoming/taiko.md)
-* [Linea](upcoming/linea.md)
-* [LayerZero](upcoming/layerzero.md)
-* [Base](upcoming/base.md)
-* [zkSync](upcoming/zksync.md)
 * [Dusk](upcoming/dusk.md)
 * [Zora](upcoming/zora.md)
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
-* [Caldera](upcoming/caldera.md)
 * [Pryzm](active-testnets/pryzm.md)
 
 ## node installation guide
