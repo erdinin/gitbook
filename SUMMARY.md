@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Anasayfa](README.md)
+* [Homepage](README.md)
 
 ## ACTIVE TESTNETS
 
@@ -30,7 +30,7 @@
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
 * [Caldera](upcoming/caldera.md)
-* [Pryzm](upcoming/pryzm.md)
+* [Pryzm](active-testnets/pryzm.md)
 
 ## node installation guide
 
