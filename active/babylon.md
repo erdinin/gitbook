@@ -1,6 +1,6 @@
 # Babylon
 
-#### **Lava Network Hakkında**
+#### **Babylon Hakkında**
 
 {% hint style="success" %}
 [**Twitter**](https://twitter.com/babylon\_chain) **|** [**Github** ](https://github.com/babylonchain)**|** [**Website** ](https://babylonchain.io/)**|** [**Discord**](https://discord.com/invite/babylonchain) **|** [**Docs**](https://docs.babylonchain.io/) **|** [**Explorer**](https://testnet.babylon.explorers.guru/)
