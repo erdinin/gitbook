@@ -7,7 +7,7 @@
 * [Namada](active/namada.md)
 * [Subsquid](active/subsquid.md)
 * [Berachain](active/berachain.md)
-* [BEVM](active/bevm.md)
+* [Pryzm](active/pryzm.md)
 
 ## UPCOMING
 
@@ -21,14 +21,14 @@
 * [Zora](upcoming/zora.md)
 * [Fuel](upcoming/fuel.md)
 * [Lamina1](upcoming/lamina1.md)
-* [Pryzm](active-testnets/pryzm.md)
 
 ## node installation guide
 
+* [BEVM](node-installation-guide/bevm.md)
 * [andromeda](node-installation-guide/andromeda.md)
-* [babylon](node-installation-guide/babylon.md)
 * [base](node-installation-guide/base.md)
 * [dymension](node-installation-guide/dymension.md)
 * [gitopia](node-installation-guide/gitopia.md)
+* [babylon](node-installation-guide/babylon.md)
 * [nibiru](node-installation-guide/nibiru.md)
 * [ojo](node-installation-guide/ojo.md)

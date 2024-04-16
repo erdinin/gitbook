@@ -1,8 +1,14 @@
 # BEVM
 
-#### Pryzm Hakkında
+**BEVM Hakkında**
 
-> [Twitter ](https://twitter.com/BTClayer2)| [Github ](https://github.com/btclayer2/BEVM)| [Website](https://www.bevm.io/) | [Discord ](https://discord.gg/csuxN8mMEh)| [Blog ](https://bevm-blog.webflow.io/)| [Docs](https://documents.bevm.io/) | [Explorer](https://telemetry.bevm.io/)
+{% hint style="success" %}
+[**Twitter**](https://twitter.com/BTClayer2) **|** [**Github**](https://github.com/btclayer2/BEVM) **|** [**Website** ](https://www.bevm.io/)**|** [**Discord**](https://discord.com/invite/AGcRqkTBAV) **|** [**Docs**](https://documents.bevm.io/) **|** [**Explorer**](https://telemetry.chainx.org/#list/0x6ac13efb5b368b97b4934cef6edfdd99c2af51ba5109bfb8dacc116f9c584c10)
+{% endhint %}
+
+{% hint style="info" %}
+**BEVM**, BTC'yi Gaz olarak kullanan, tamamen merkezi olmayan EVM uyumlu ilk Bitcoin L2'dir. Ethereum ekosisteminde çalışabilen tüm DApp'lerin Bitcoin L2 üzerinde çalışmasına olanak tanır.
+{% endhint %}
 
 ***
 
