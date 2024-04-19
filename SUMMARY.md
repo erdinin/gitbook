@@ -7,7 +7,7 @@
 * [0G Labs](active/0g-labs.md)
 * [Source](active/source.md)
 * [Aligned Layer](active/aligned-layer.md)
-* [Mantra](<active/babylon (1).md>)
+* [Mantra](active/mantra.md)
 * [CrossFi](active/crossfi.md)
 * [Waku](active/waku.md)
 * [Namada](active/namada.md)
