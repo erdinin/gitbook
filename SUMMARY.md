@@ -7,7 +7,7 @@
 * [0G Labs](active/0g-labs.md)
 * [Source](active/source.md)
 * [Aligned Layer](active/aligned-layer.md)
-* [Mantra](active/babylon.md)
+* [Mantra](<active/babylon (1).md>)
 * [CrossFi](active/crossfi.md)
 * [Waku](active/waku.md)
 * [Namada](active/namada.md)
@@ -15,7 +15,7 @@
 * [Berachain](active/berachain.md)
 * [Pryzm](active/pryzm.md)
 * [Lava Network](active/lava-network.md)
-* [Babylon](active/babylon-1.md)
+* [Babylon](active/babylon.md)
 
 ## UPCOMING
 
@@ -26,7 +26,7 @@
 
 ## finished
 
-* [Avail](finished/avail.md)
+* [Avail](active/avail.md)
 * [BEVM](finished/bevm.md)
 * [andromeda](finished/andromeda.md)
 * [base](finished/base.md)

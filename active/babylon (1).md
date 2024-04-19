@@ -1,13 +1,13 @@
-# Babylon
+# Mantra
 
-#### **Babylon Hakkında**
+#### **Mantra Hakkında**
 
 {% hint style="success" %}
-[**Twitter**](https://twitter.com/babylon\_chain) **|** [**Github** ](https://github.com/babylonchain)**|** [**Website** ](https://babylonchain.io/)**|** [**Discord**](https://discord.com/invite/babylonchain) **|** [**Docs**](https://docs.babylonchain.io/) **|** [**Explorer**](https://testnet.babylon.explorers.guru/)
+[**Twitter** ](https://twitter.com/mantra\_chain)**|** [**Github** ](https://github.com/MANTRA-Finance)**|** [**Website** ](https://www.mantrachain.io/)**|** [**Discord** ](https://discord.com/invite/gfks4TwAJV)**|** [**Docs**](https://docs.mantrachain.io/operate-a-node)
 {% endhint %}
 
 {% hint style="info" %}
-**Babylon**, Cosmos zone'larının ve diğer PoS zincirlerinin güvenliğini artırmak için Bitcoin'in güvenliğinden yararlanma vizyonuna sahip yeni bir Cosmos projesidir.
+**Mantra,** tüm düzenlemelere ve uyum çerçevelerine uyan bir Güvenlik Öncelikli Katman 1 Blokzinciri olarak ortaya çıkıyor. Geliştiriciler ve Kurumlar için Cosmos SDK üzerine inşa edilen MANTRA Zinciri, RW'ların zincirde düzgün geçişini kısıtlayan tüm engelleri çözmeye odaklanıyor. Mantra Zinciri, IBC Ağı üzerinde likit olmayan varlıkların etkileşimli tokenleştirilmesini mümkün kılar ve Uyumluluk, Varlıklar ve Tokenlar için çeşitli modüller sunar.
 {% endhint %}
 
 ***
