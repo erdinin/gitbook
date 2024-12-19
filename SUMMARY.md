@@ -4,6 +4,7 @@
 
 ## testnet
 
+* [Unichain](testnet/unichain.md)
 * [Mitosis](testnet/mitosis.md)
 * [Berachain](testnet/berachain.md)
 
