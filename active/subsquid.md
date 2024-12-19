@@ -104,12 +104,8 @@
 * https://app.subsquid.io/quests adresine gidiyoruz ve **Get Key** tuşuna basıp, keyi indiriyoruz.\
   ![](<../.gitbook/assets/image (4).png>)
 
-<!---->
-
-* https://github.com/codespaces e gidip. Blank - Use this template’e basıyoruz. Biraz bekledikten sonra terminal ekranı açılacak.\
+- https://github.com/codespaces e gidip. Blank - Use this template’e basıyoruz. Biraz bekledikten sonra terminal ekranı açılacak.\
   <img src="../.gitbook/assets/Untitled (1).png" alt="" data-size="original">
-
-<!---->
 
 *   Aşağıdaki yönergeleri takip edin.\
 
@@ -192,7 +188,7 @@
 
 <summary>Subsquid Points Program</summary>
 
-15 Nisan itibariyle Subsquid Points Program adını taşıyan bir etkinlik başlattı. Bu etkinlikte 6,685,000 adet [$SQD](https://twitter.com/search?q=%24SQD\&src=cashtag\_click) dağıtılacak. Snapshot ise 13 Mayısta alınacak. \
+15 Nisan itibariyle Subsquid Points Program adını taşıyan bir etkinlik başlattı. Bu etkinlikte 6,685,000 adet [$SQD](https://twitter.com/search?q=%24SQD\&src=cashtag_click) dağıtılacak. Snapshot ise 13 Mayısta alınacak. \
 **link   :** [https://points.subsquid.io](https://t.co/WiF0Z2i4su)\
 **detay:** [https://twitter.com/xyznodes/status/1780014407893836283](https://twitter.com/xyznodes/status/1780014407893836283)
 

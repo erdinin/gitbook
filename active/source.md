@@ -3,7 +3,7 @@
 #### **Source Hakkında**
 
 {% hint style="success" %}
-[**Twitter**](https://twitter.com/sourcenetwrk) **|** [**Github**](https://github.com/sourcenetwork) **|** [**Website**](https://source.network/) **|** [**Discord**](https://discord.source.network/) **|** [**Telegram**](https://t.me/source\_network)
+[**Twitter**](https://twitter.com/sourcenetwrk) **|** [**Github**](https://github.com/sourcenetwork) **|** [**Website**](https://source.network/) **|** [**Discord**](https://discord.source.network/) **|** [**Telegram**](https://t.me/source_network)
 {% endhint %}
 
 {% hint style="info" %}

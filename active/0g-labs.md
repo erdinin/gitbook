@@ -3,7 +3,7 @@
 #### **0G Labs Hakkında**
 
 {% hint style="success" %}
-[**Twitter**](https://twitter.com/0G\_labs) **|** [**Website**](https://0g.ai/) **|** [**Discord**](https://discord.com/invite/0glabs) **|** [**Telegram**](https://t.me/web3\_0glabs)
+[**Twitter**](https://twitter.com/0G_labs) **|** [**Website**](https://0g.ai/) **|** [**Discord**](https://discord.com/invite/0glabs) **|** [**Telegram**](https://t.me/web3_0glabs)
 {% endhint %}
 
 {% hint style="info" %}

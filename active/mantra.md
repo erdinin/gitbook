@@ -3,7 +3,7 @@
 #### **Mantra Hakkında**
 
 {% hint style="success" %}
-[**Twitter** ](https://twitter.com/mantra\_chain)**|** [**Github** ](https://github.com/MANTRA-Finance)**|** [**Website** ](https://www.mantrachain.io/)**|** [**Discord** ](https://discord.com/invite/gfks4TwAJV)**|** [**Docs**](https://docs.mantrachain.io/operate-a-node)
+[**Twitter** ](https://twitter.com/mantra_chain)**|** [**Github** ](https://github.com/MANTRA-Finance)**|** [**Website** ](https://www.mantrachain.io/)**|** [**Discord** ](https://discord.com/invite/gfks4TwAJV)**|** [**Docs**](https://docs.mantrachain.io/operate-a-node)
 {% endhint %}
 
 {% hint style="info" %}

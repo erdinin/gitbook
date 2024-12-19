@@ -3,7 +3,7 @@
 #### **Mitosis Hakkında**
 
 {% hint style="success" %}
-[**Twitter**](https://twitter.com/MitosisOrg) **|** [**Website**](https://mitosis.org/) **|** [**Discord**](https://discord.com/invite/zs5UAxnhPK) **|** [**Telegram**](https://t.me/+s-8hkIaw\_WMzM2M1)
+[**Twitter**](https://twitter.com/MitosisOrg) **|** [**Website**](https://mitosis.org/) **|** [**Discord**](https://discord.com/invite/zs5UAxnhPK) **|** [**Telegram**](https://t.me/+s-8hkIaw_WMzM2M1)
 {% endhint %}
 
 {% hint style="info" %}

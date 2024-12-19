@@ -3,7 +3,7 @@
 #### **Waku Hakkında**
 
 {% hint style="success" %}
-[**Twitter** ](https://twitter.com/Waku\_org)**|** [**Github** ](https://github.com/waku-org)**|** [**Website**](https://waku.org/) **|** [**Discord** ](https://discord.com/invite/gMPAzmcDER)**|** [**Docs** ](https://docs.waku.org/)**|** [**Blog**](https://blog.waku.org/)
+[**Twitter** ](https://twitter.com/Waku_org)**|** [**Github** ](https://github.com/waku-org)**|** [**Website**](https://waku.org/) **|** [**Discord** ](https://discord.com/invite/gMPAzmcDER)**|** [**Docs** ](https://docs.waku.org/)**|** [**Blog**](https://blog.waku.org/)
 {% endhint %}
 
 {% hint style="info" %}

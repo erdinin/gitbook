@@ -4,7 +4,7 @@
 
 ## active
 
-* [Mitosis](active/mitosis.md)
+* [Mitosis](upcoming/mitosis.md)
 * [Namada](active/namada.md)
 * [Berachain](active/berachain.md)
 
@@ -16,15 +16,15 @@
 
 ## finished
 
-* [Babylon](finished/babylon.md)
-* [Source](finished/source.md)
-* [Aligned Layer](finished/aligned-layer.md)
-* [Mantra](finished/mantra.md)
-* [Waku](finished/waku.md)
-* [CrossFi](finished/crossfi.md)
-* [Subsquid](finished/subsquid.md)
-* [Pryzm](finished/pryzm.md)
-* [0G Labs](finished/0g-labs.md)
+* [Babylon](active/babylon.md)
+* [Source](active/source.md)
+* [Aligned Layer](active/aligned-layer.md)
+* [Mantra](active/mantra.md)
+* [Waku](active/waku.md)
+* [CrossFi](active/crossfi.md)
+* [Subsquid](active/subsquid.md)
+* [Pryzm](active/pryzm.md)
+* [0G Labs](active/0g-labs.md)
 * [Avail](active/avail.md)
 * [BEVM](finished/bevm.md)
 * [andromeda](finished/andromeda.md)
@@ -36,4 +36,4 @@
 
 ***
 
-* [Lava Network](lava-network.md)
+* [Lava Network](active/lava-network.md)

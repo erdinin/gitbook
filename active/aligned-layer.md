@@ -3,7 +3,7 @@
 #### **Aligned Layer Hakkında**
 
 {% hint style="success" %}
-[**Twitter**](https://twitter.com/alignedlayer) **|** [**Github** ](https://github.com/yetanotherco/aligned\_layer)**|** [**Website**](https://alignedlayer.com/) **|** [**Blog**](https://blog.yetanothercompany.xyz/aligned-layer/) **|** [**Telegram**](https://t.me/aligned\_layer)
+[**Twitter**](https://twitter.com/alignedlayer) **|** [**Github** ](https://github.com/yetanotherco/aligned_layer)**|** [**Website**](https://alignedlayer.com/) **|** [**Blog**](https://blog.yetanothercompany.xyz/aligned-layer/) **|** [**Telegram**](https://t.me/aligned_layer)
 {% endhint %}
 
 {% hint style="info" %}
