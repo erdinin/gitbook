@@ -1,10 +1,14 @@
+---
+icon: terminal
+---
+
 # Homepage
 
-![xyznodes](https://raw.githubusercontent.com/erdinin/testnet-guides/main/utils/xyznodes\_8071093-1.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&pause=1000\&width=700\&lines=xyznodes+is+a+node+runner!)](https://git.io/typing-svg)
 
-#### hello frens 👾🧪
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code\&pause=1000\&width=435\&lines=xyznodes+is+a+node+runner!)](https://git.io/typing-svg)
+
+hello frens 👾🧪 &#x20;
 
 * I am trying to contribute to the projects working in the PoS (Proof-of-Stake) network at an early stage.
 * I prepare testnet guides, node installation guides, update guides of projects in Turkish language.
@@ -23,4 +27,4 @@
 
 #### Contact Me
 
-> [twitter](https://twitter.com/xyznodes) [website](https://xyznodes.xyz)
+> [twitter](https://twitter.com/xyznodes)&#x20;
