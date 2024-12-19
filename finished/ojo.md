@@ -1,8 +1,12 @@
-# ojo
+---
+icon: terminal
+---
+
+# Ojo
 
 #### Ojo Hakkında
 
-> [Twitter](https://twitter.com/ojo\_network) | [Github](https://github.com/ojo-network) | [Website](https://ojo.network/) | [Telegram](https://t.me/OjoNetwork) | [Discord](https://discord.gg/c8SaeRa3uZ) | [Explorer](https://ojo.explorers.guru/) | [xyznodes-Validator](https://ojo.explorers.guru/validator/ojovaloper1x6qr9v8ahe4an4u32g3qylnv4ez584r84tq4lk)
+> [Twitter](https://twitter.com/ojo_network) | [Github](https://github.com/ojo-network) | [Website](https://ojo.network/) | [Telegram](https://t.me/OjoNetwork) | [Discord](https://discord.gg/c8SaeRa3uZ) | [Explorer](https://ojo.explorers.guru/) | [xyznodes-Validator](https://ojo.explorers.guru/validator/ojovaloper1x6qr9v8ahe4an4u32g3qylnv4ez584r84tq4lk)
 
 ***
 

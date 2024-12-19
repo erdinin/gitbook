@@ -1,4 +1,8 @@
-# dymension
+---
+icon: terminal
+---
+
+# Dymension
 
 #### Dymension Hakkında
 

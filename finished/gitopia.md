@@ -1,4 +1,8 @@
-# gitopia
+---
+icon: terminal
+---
+
+# Gitopia
 
 #### Gitopia Hakkında
 

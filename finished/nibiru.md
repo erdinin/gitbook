@@ -1,4 +1,8 @@
-# nibiru
+---
+icon: terminal
+---
+
+# Nibiru
 
 #### Nibiru Hakkında
 

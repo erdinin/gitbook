@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Pryzm
 
 #### **Pryzm Hakkında**

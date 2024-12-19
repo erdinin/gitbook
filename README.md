@@ -1,5 +1,5 @@
 ---
-icon: terminal
+icon: house-flag
 ---
 
 # Homepage

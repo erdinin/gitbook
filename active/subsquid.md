@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Subsquid
 
 #### **Subsquid Hakkında**

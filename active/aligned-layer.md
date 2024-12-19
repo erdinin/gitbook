@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Aligned Layer
 
 #### **Aligned Layer Hakkında**

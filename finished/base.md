@@ -1,4 +1,8 @@
-# base
+---
+icon: terminal
+---
+
+# Base
 
 #### Base Hakkında
 

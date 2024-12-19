@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Avail
 
 #### **Avail Hakkında**

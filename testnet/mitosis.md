@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Mitosis
 
 #### **Mitosis Hakkında**

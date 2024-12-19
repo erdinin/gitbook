@@ -1,9 +1,13 @@
+---
+icon: terminal
+---
+
 # Layer N
 
 #### **Layer N Hakkında**
 
 {% hint style="success" %}
-[**Twitter** ](https://twitter.com/layern\_official)**|** [**Blog**](https://www.layern.com/blog) **|** [**Website** ](https://www.layern.com/)**|** [**Discord** ](https://discord.com/invite/layern)**|** [**Telegram** ](https://t.me/LayerN\_Community)**|** [**Docs**](https://docs.layern.com/)
+[**Twitter** ](https://twitter.com/layern_official)**|** [**Blog**](https://www.layern.com/blog) **|** [**Website** ](https://www.layern.com/)**|** [**Discord** ](https://discord.com/invite/layern)**|** [**Telegram** ](https://t.me/LayerN_Community)**|** [**Docs**](https://docs.layern.com/)
 {% endhint %}
 
 {% hint style="info" %}

@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # Namada
 
 #### **Namada Hakkında**

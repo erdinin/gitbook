@@ -1,3 +1,7 @@
+---
+icon: terminal
+---
+
 # 0G Labs
 
 #### **0G Labs Hakkında**

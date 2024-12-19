@@ -1,4 +1,8 @@
-# andromeda
+---
+icon: terminal
+---
+
+# Andromeda
 
 #### Andromeda Hakkında
 
