@@ -4,7 +4,7 @@ icon: terminal
 
 # Nexus
 
-#### Unichain **Hakkında**
+#### Nexus **Hakkında**
 
 {% hint style="success" %}
 [**Twitter**](https://x.com/NexusLabs) **|** [**Website**](https://nexus.xyz/) **|** [**Do**](https://docs.nexus.xyz/)[**cs**](https://docs.nexus.xyz/)
