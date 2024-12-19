@@ -4,6 +4,8 @@
 
 ## testnet
 
+* [Hyperliquid](testnet/hyperliquid.md)
+* [Nexus](testnet/nexus.md)
 * [Unichain](testnet/unichain.md)
 * [Mitosis](testnet/mitosis.md)
 * [Berachain](testnet/berachain.md)
