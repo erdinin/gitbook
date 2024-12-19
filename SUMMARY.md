@@ -7,14 +7,11 @@
 * [Mitosis](upcoming/mitosis.md)
 * [Berachain](active/berachain.md)
 
-## UPCOMING
-
-* [Layer N](upcoming/layer-n.md)
-* [Initia](upcoming/initia.md)
-* [Espresso](upcoming/espresso.md)
-
 ## finished
 
+* [Espresso](finished/espresso.md)
+* [Initia](finished/initia.md)
+* [Layer N](finished/layer-n.md)
 * [Namada](finished/namada.md)
 * [Babylon](active/babylon.md)
 * [Source](active/source.md)

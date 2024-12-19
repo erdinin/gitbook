@@ -4,6 +4,8 @@ icon: terminal
 
 # Homepage
 
+{% embed url="http://www.pleconodes.com/" %}
+
 hello frens 👾🧪 &#x20;
 
 * I am trying to contribute to the projects working in the PoS (Proof-of-Stake) network at an early stage.
