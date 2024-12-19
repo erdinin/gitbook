@@ -5,7 +5,6 @@
 ## active
 
 * [Mitosis](upcoming/mitosis.md)
-* [Namada](active/namada.md)
 * [Berachain](active/berachain.md)
 
 ## UPCOMING
@@ -16,6 +15,7 @@
 
 ## finished
 
+* [Namada](finished/namada.md)
 * [Babylon](active/babylon.md)
 * [Source](active/source.md)
 * [Aligned Layer](active/aligned-layer.md)
