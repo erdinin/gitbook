@@ -4,14 +4,14 @@
 
 ## testnet
 
-* [Hyperliquid](testnet/hyperliquid.md)
-* [Nexus](testnet/nexus.md)
 * [Unichain](testnet/unichain.md)
+* [Nexus](testnet/nexus.md)
 * [Mitosis](testnet/mitosis.md)
 * [Berachain](testnet/berachain.md)
 
 ## finished
 
+* [Hyperliquid](finished/hyperliquid.md)
 * [Espresso](finished/espresso.md)
 * [Initia](finished/initia.md)
 * [Layer N](finished/layer-n.md)
