@@ -4,6 +4,7 @@
 
 ## testnet
 
+* [Chainbase](testnet/chainbase.md)
 * [Unichain](testnet/unichain.md)
 * [Nexus](testnet/nexus.md)
 * [Mitosis](testnet/mitosis.md)
