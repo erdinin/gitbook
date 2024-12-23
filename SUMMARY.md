@@ -10,6 +10,10 @@
 * [Hemi Network](testnet/hemi-network.md)
 * [Berachain](testnet/berachain.md)
 
+## cosmos
+
+* [Berachain](cosmos/berachain.md)
+
 ## vana eco
 
 * [Volara](vana-eco/berachain.md)
