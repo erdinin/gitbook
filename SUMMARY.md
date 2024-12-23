@@ -8,7 +8,6 @@
 * [Hyperlane](testnet/hyperlane.md)
 * [t3rn](testnet/t3rn.md)
 * [Hemi Network](testnet/hemi-network.md)
-* [Berachain](testnet/berachain.md)
 
 ## cosmos
 
