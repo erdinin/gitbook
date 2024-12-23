@@ -5,9 +5,9 @@
 ## testnet
 
 * [Chainbase](testnet/chainbase.md)
-* [Unichain](testnet/unichain.md)
-* [Nexus](testnet/nexus.md)
-* [Mitosis](testnet/mitosis.md)
+* [Hyperlane](testnet/hyperlane.md)
+* [t3rn](testnet/t3rn.md)
+* [Hemi Network](testnet/hemi-network.md)
 * [Berachain](testnet/berachain.md)
 
 ## vana eco
@@ -16,6 +16,8 @@
 
 ## finished
 
+* [Unichain](finished/unichain.md)
+* [Mitosis](finished/mitosis.md)
 * [Hyperliquid](finished/hyperliquid.md)
 * [Espresso](finished/espresso.md)
 * [Initia](finished/initia.md)
@@ -35,3 +37,7 @@
 * [Gitopia](finished/gitopia.md)
 * [Nibiru](finished/nibiru.md)
 * [Ojo](finished/ojo.md)
+
+***
+
+* [Nexus](nexus.md)
