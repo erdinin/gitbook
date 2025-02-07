@@ -40,7 +40,4 @@
 * [Gitopia](finished/gitopia.md)
 * [Nibiru](finished/nibiru.md)
 * [Ojo](finished/ojo.md)
-
-***
-
-* [Nexus](nexus.md)
+* [Nexus](finished/nexus.md)
