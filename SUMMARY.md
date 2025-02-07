@@ -4,29 +4,21 @@
 
 ## testnet
 
-* [Chainbase](testnet/chainbase.md)
-* [Unichain](testnet/unichain.md)
-* [Hyperlane](testnet/hyperlane.md)
-* [t3rn](testnet/t3rn.md)
-* [Hemi Network](testnet/hemi-network.md)
-
-## cosmos
-
-* [Berachain](cosmos/berachain.md)
-
-## vana eco
-
-* [Volara](vana-eco/berachain.md)
-
 ## finished
 
+* [Hyperlane](finished/hyperlane.md)
+* [Unichain](finished/unichain.md)
+* [t3rn](finished/t3rn.md)
+* [Hemi Network](finished/hemi-network.md)
 * [Mitosis](finished/mitosis.md)
 * [Hyperliquid](finished/hyperliquid.md)
 * [Espresso](finished/espresso.md)
 * [Initia](finished/initia.md)
 * [Layer N](finished/layer-n.md)
+* [Chainbase](finished/chainbase.md)
 * [Namada](finished/namada.md)
 * [Babylon](active/babylon.md)
+* [Volara](finished/berachain.md)
 * [Source](active/source.md)
 * [Aligned Layer](active/aligned-layer.md)
 * [Subsquid](active/subsquid.md)
@@ -41,3 +33,7 @@
 * [Nibiru](finished/nibiru.md)
 * [Ojo](finished/ojo.md)
 * [Nexus](finished/nexus.md)
+
+***
+
+* [Berachain](berachain.md)
