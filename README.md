@@ -11,6 +11,10 @@ icon: house-flag
 * I am trying to contribute to the projects working in the PoS (Proof-of-Stake) network at an early stage.
 * I prepare testnet guides, node installation guides, update guides of projects in Turkish language.
 * I’m interested in validating also i’m looking to collaborations to validate and provide value.
+
+## Mainnet
+
+- [Namada](finished/namada.md)
   
 ## Active Testnets
 I participate in various testnet projects, contributing to their ecosystem growth and stability:
