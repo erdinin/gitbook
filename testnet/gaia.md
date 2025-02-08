@@ -18,7 +18,7 @@ icon: terminal
 
 <details>
 
-<summary>gaia-node</summary>
+<summary>Gaia Node</summary>
 
 ### Kurulum
 
