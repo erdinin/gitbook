@@ -29,11 +29,8 @@
 * [Andromeda](finished/andromeda.md)
 * [Base](finished/base.md)
 * [Dymension](finished/dymension.md)
+* [Nexus](finished/nexus.md)
 * [Gitopia](finished/gitopia.md)
 * [Nibiru](finished/nibiru.md)
+* [Berachain](finished/berachain-1.md)
 * [Ojo](finished/ojo.md)
-* [Nexus](finished/nexus.md)
-
-***
-
-* [Berachain](berachain.md)
