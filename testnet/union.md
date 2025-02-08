@@ -84,16 +84,40 @@ docker --version
 
 ```
 | **Alan**        | **Değer**          |
-|----------------|------------------|
+|---------------- |------------------|
 | **Remote Host** | Sunucunun IP adresi |
 | **Username**    | `root`             |
 | **Port**        | `3389`             |
 ```
 
-**Bağlantı Ayarları:**
+5️⃣ **"OK"** butonuna basarak bağlanın.
 
-5️⃣ **"OK"** butonuna basarak bağlanın.\
-asdd
+**Union Ceremony Kurulumu**
+
+Artık sunucu üzerinden tarayıcıyı açarak kurulumu tamamlayabilirsiniz.
+
+1️⃣ **Application Finder'ı açın ve Firefox'u başlatın.**\
+2️⃣ Aşağıdaki linke gidin:\
+🔗 [**Union Ceremony Sitesi**](https://ceremony.union.build)\
+3️⃣ **Google veya GitHub ile giriş yapın.**\
+4️⃣ **Linux seçeneğini seçip "Copy Command" butonuna basın.**\
+5️⃣ **Terminale geri dönerek kopyalanan kodu yapıştırın ve çalıştırın.**
+
+**Kurulum tamamlandıktan sonra `CTRL + A + D` tuşlarına basarak `screen` oturumundan çıkabilirsiniz.**&#x20;
+
+\
+**Son Adımlar ve Bekleme Süreci**
+
+1️⃣ **MobaXterm'e geri dönün ve "Address" ile "Generate Key" kısımlarını tamamlayın.**\
+2️⃣ **Generate Key işlemi tamamlandıktan sonra, Mozilla-Downloads klasöründen anahtar dosyanızı bulun.**\
+3️⃣ **Her şey doğru yapıldıysa, sıra numarasıyla katılımınız tamamlanmış olacak. 🎉**
+
+***
+
+📌 **Bu rehber, Union Ceremony sürecini tamamlamanıza yardımcı olmak için hazırlanmıştır. Herhangi bir hata ile karşılaşırsanız, komutları kontrol edin ve adımları tekrar gözden geçirin.** 🚀
+
+* **Daha fazla bilgi için resmi dökümantasyonu ziyaret edin: Union Docs**\
+
 
 </details>
 
