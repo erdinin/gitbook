@@ -5,7 +5,7 @@
 ## testnet
 
 * [Gaia](testnet/gaia.md)
-* [Union](testnet/gaia-1.md)
+* [Union](testnet/union.md)
 
 ## finished
 
