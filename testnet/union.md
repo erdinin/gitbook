@@ -20,96 +20,96 @@ icon: terminal
 
 <summary>gaia-node</summary>
 
-### Kurulum
+Union Ceremony
+Sunucu Hazırlığı ve Masaüstü Ortamı Kurulumu
+{% hint style="info" %} Bu işlem, sunucunuzda bir masaüstü ortamı (XFCE) oluşturup, uzaktan erişim (RDP) ile bağlantı kurmanıza olanak tanır. {% endhint %}
 
-Daha önce Gaia katılıp EXP'leri toplamıştık.
+Güncelleme ve XFCE Kurulumu
+Öncelikle sisteminizi güncelleyin:
 
-Bu EXP'leri node'un çalışması için kredi olarak kullanacağız.
-
-[Buradan](https://gaianet.ai/reward?invite_code=RiFcz1) EXP'leri toplayabilirsiniz.
-
-### Donanım
-
-CPU : 4 vCPU
-
-RAM : 8GB
-
-### komutlar.
-
-```console
-# sırasıyla
+bash
+Kopyala
+Düzenle
 sudo apt update && sudo apt upgrade -y
-sudo apt install -y build-essential libssl-dev libffi-dev python3-dev python3-pip pip
+XFCE masaüstü ortamının mevcut olup olmadığını kontrol edin:
 
-curl -sSfL 'https://github.com/GaiaNet-AI/gaianet-node/releases/latest/download/install.sh' | bash
-source /root/.bashrc
+bash
+Kopyala
+Düzenle
+apt-cache search xfce4
+XRDP Kurulumu (Uzak Masaüstü Bağlantısı)
+XRDP, uzak masaüstü bağlantısı yapabilmek için gereklidir. Aşağıdaki komutları sırasıyla çalıştırarak kurulumu tamamlayın:
 
-gaianet init --config https://raw.githubusercontent.com/GaiaNet-AI/node-configs/main/qwen2-0.5b-instruct/config.json
-# kurulumlar tamamlanana kadar bekleyin.
-```
+bash
+Kopyala
+Düzenle
+sudo apt install xrdp -y
+sudo systemctl enable xrdp
+sudo systemctl start xrdp
+echo "xfce4-session" >~/.xsession
+sudo ufw allow 3389/tcp
+Tarayıcı ve Terminal Araçlarının Kurulumu
+Bu aşamada, Firefox tarayıcısını ve diğer gerekli araçları kuruyoruz.
 
-```console
-# start edelim.
-gaianet start
+bash
+Kopyala
+Düzenle
+sudo apt install firefox -y
+sudo apt install screen
+screen -S union
+sudo apt install curl iptables build-essential git wget jq make gcc nano automake autoconf tmux htop pkg-config libssl-dev tar clang unzip -y
+Docker’ı yükleyin ve çalıştığını doğrulayın:
 
-# node infoları
-gaianet info
-```
+bash
+Kopyala
+Düzenle
+sudo apt update
+sudo apt install docker.io -y
+docker --version
+{% hint style="success" %} 📌 Bu aşamadan sonra terminali açık bırakın ve kendi bilgisayarınıza geçin.
+Bir sonraki adımda, MobaXterm ile uzak masaüstü bağlantısı kuracağız. {% endhint %}
 
-[buradan](https://www.gaianet.ai/setting/nodes) node-info bilgilerinizi girip node'u ekleyin.
+MobaXterm ile Uzak Bağlantı (RDP)
+💻 Kendi bilgisayarınızdan sunucunuza bağlanmak için aşağıdaki adımları takip edin:
 
-![Ekran Resmi 2025-02-07 21 46 05](https://github.com/user-attachments/assets/45bd47ef-3aba-4141-baec-bbd03ca68aa4)
+1️⃣ MobaXterm’i indirin:
+🔗 İndirme Linki
+2️⃣ Kurulumu tamamlayın ve çalıştırın.
+3️⃣ Sol üst köşeden Session butonuna tıklayın.
+4️⃣ Açılan pencerede "RDP" seçeneğini seçin.
 
-bir domaine katılacağız (en düşük donanımı destekleyen tek bir domain var)
+Bağlantı Ayarları:
+Alan	Değer
+Remote Host	Sunucunun IP adresi
+Username	root
+Port	3389
+5️⃣ "OK" butonuna basarak bağlanın.
 
-```console
-gaianet stop
-gaianet config --domain gaia.domains
-gaianet init
-gaianet start
-```
+📸 Referans Görsel:
 
-node ayarlarına [gidelim](https://www.gaianet.ai/setting/nodes)
+Union Ceremony Kurulumu
+Artık sunucu üzerinden tarayıcıyı açarak kurulumu tamamlayabilirsiniz.
 
-Görseldeki 3 noktaya tıklayıp join domain diyelim
+1️⃣ Application Finder'ı açın ve Firefox'u başlatın.
+2️⃣ Aşağıdaki linke gidin:
+🔗 Union Ceremony Sitesi
+3️⃣ Google veya GitHub ile giriş yapın.
+4️⃣ Linux seçeneğini seçip "Copy Command" butonuna basın.
+5️⃣ Terminale geri dönerek kopyalanan kodu yapıştırın ve çalıştırın.
 
-![Ekran Resmi 2025-02-07 21 47 50](https://github.com/user-attachments/assets/a1de0b3e-1a80-498f-8bbc-0b373024173c)
+{% hint style="info" %} Kurulum tamamlandıktan sonra CTRL + A + D tuşlarına basarak screen oturumundan çıkabilirsiniz. {% endhint %}
 
-pengu yazıp domaini ekleyelim.
+Son Adımlar ve Bekleme Süreci
+1️⃣ MobaXterm'e geri dönün ve "Address" ile "Generate Key" kısımlarını tamamlayın.
+2️⃣ Generate Key işlemi tamamlandıktan sonra, Mozilla-Downloads klasöründen anahtar dosyanızı bulun.
+3️⃣ Her şey doğru yapıldıysa, sıra numarasıyla katılımınız tamamlanmış olacak. 🎉
 
-![Ekran Resmi 2025-02-07 21 48 35](https://github.com/user-attachments/assets/4b82adee-b8ac-40bc-b62f-6b5e7bfe2b55)
+📌 Bu rehber, Union Ceremony sürecini tamamlamanıza yardımcı olmak için hazırlanmıştır. Herhangi bir hata ile karşılaşırsanız, komutları kontrol edin ve adımları tekrar gözden geçirin. 🚀
 
-ChatGPT yerine [bu](https://www.gaianet.ai/chat?domain=pengu.gaia.domains\&type=domain) botu kullanmak node puanınızı arttıracak.
-
-Kullanmadığımız zamanlarda da çalışması için oto text bot kuracağız.
-
-
-
-[Buradan](https://www.gaianet.ai/reward-summary) base ağına geçerek reeddem yapın EXP'leri.
-
-![Ekran Resmi 2025-02-07 21 50 23](https://github.com/user-attachments/assets/13309650-98fa-45db-8c3e-721c07092581)
-
-Creditleri Consumed'e çevireceğiz.
-
-[Buradan](https://www.gaianet.ai/setting/gaia-api-keys) bir API key oluşturup saklayın keyi.
-
-```console
-curl -L -o gaiabot.py https://github.com/enzifiri/gaia-node/raw/main/gaiabot.py
-screen -S gaia
-python3 gaiabot.py
-
-# akabinde CTRL A D ile çıkış yapabilirsiniz burdan.
-```
-
-Refresh attıkca consumed artacak.
-
-![Ekran Resmi 2025-02-07 21 52 10](https://github.com/user-attachments/assets/35c01933-f3ab-448e-b1ec-5b2dfea724a8)
-
-Bu şekilde bir hesabınıza eklediğiniz kadar node eklersiniz.
-
-tokenininizin biteceğini unutmayın , expler önemli.
-
-Akabinde node puan artacak (24 saat sonra)
+Ek Notlar
+Node çalışmasını ve sıraya girildiğini kontrol etmek için "node-info" sekmesine göz atabilirsiniz.
+Kurulum sırasında hata alırsanız, log dosyalarını inceleyerek sorunları tespit edebilirsiniz.
+Daha fazla bilgi için resmi dökümantasyonu ziyaret edin: Union Docs
 
 ![Ekran Resmi 2025-02-07 21 55 26](https://github.com/user-attachments/assets/6157d573-2793-482c-9011-f125c7680aab)
 
