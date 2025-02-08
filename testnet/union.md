@@ -15,11 +15,6 @@ icon: terminal
 {% endhint %}
 
 ***
-
-<details>
-
-<summary>gaia-node</summary>
-
 Union Ceremony
 Sunucu Hazırlığı ve Masaüstü Ortamı Kurulumu
 {% hint style="info" %} Bu işlem, sunucunuzda bir masaüstü ortamı (XFCE) oluşturup, uzaktan erişim (RDP) ile bağlantı kurmanıza olanak tanır. {% endhint %}
@@ -110,8 +105,3 @@ Ek Notlar
 Node çalışmasını ve sıraya girildiğini kontrol etmek için "node-info" sekmesine göz atabilirsiniz.
 Kurulum sırasında hata alırsanız, log dosyalarını inceleyerek sorunları tespit edebilirsiniz.
 Daha fazla bilgi için resmi dökümantasyonu ziyaret edin: Union Docs
-
-![Ekran Resmi 2025-02-07 21 55 26](https://github.com/user-attachments/assets/6157d573-2793-482c-9011-f125c7680aab)
-
-</details>
-
