@@ -4,7 +4,7 @@
 
 ## testnet
 
-* [Gaia](testnet/t3rn.md)
+* [Gaia](testnet/gaia.md)
 
 ## finished
 
