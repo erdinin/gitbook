@@ -4,6 +4,8 @@
 
 ## testnet
 
+* [Gaia](testnet/t3rn.md)
+
 ## finished
 
 * [Hyperlane](finished/hyperlane.md)
