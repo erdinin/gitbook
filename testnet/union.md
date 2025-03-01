@@ -166,3 +166,27 @@ Union, testnet’in yeni versiyonunu başlattı! Bu, mainnet lansmanından önce
 
 </details>
 
+
+
+<details>
+
+<summary>Kişisel Notlar</summary>
+
+1. **Holesky → Sepolia**
+2. **Sepolia → Babylon Testnet**
+3. **Babylon Testnet → Stargaze Testnet**
+4. **Stargaze Testnet → Union Testnet 9**
+5. **Union Testnet 9 → Holesky**
+6. **Holesky → Babylon Testnet**
+7. **Babylon Testnet → Union Testnet 9**
+8. **Union Testnet 9 → Sepolia**
+9. **Sepolia → Stargaze Testnet**
+10. **Stargaze Testnet → Holesky**
+
+Bu sıralamayla:
+
+* Her ağdan en az bir çıkış ve giriş oluyor.
+* Hiçbir ağ atlanmıyor.
+* Transfer sayısı minimumda tutuluyor.
+
+</details>
