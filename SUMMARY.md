@@ -6,6 +6,7 @@
 
 * [LayerEdge](testnet/layeredge.md)
 * [Gaia](testnet/gaia.md)
+* [Harpie](testnet/harpie.md)
 * [Silent Protocol](testnet/silent.md)
 * [Succinct](testnet/succinct.md)
 * [Union](testnet/union.md)
