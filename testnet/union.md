@@ -7,12 +7,14 @@ icon: terminal
 #### Union **Hakkında**
 
 {% hint style="success" %}
-[**Twitter**](https://x.com/union_build) **|** [**Website**](https://union.build/) **|** [**Discord**](https://discord.gg/Dybq3dmvXg) **|** [**Docs**](https://docs.union.build/)
+[**Twitter**](https://x.com/union_build) **|** [**Website**](https://union.build/) **|** [**Discord**](https://discord.gg/Dybq3dmvXg) **|** [**Docs**](https://docs.union.build/) **|** [**Explorer**](https://explorer.testnet-9.union.build/union)
 {% endhint %}
 
 {% hint style="info" %}
 Hiper verimli birlikte çalışabilirlik protokolü. **Union**, tüm blok zincirlerini ve rollup'ları herhangi bir ekosistem üzerinde birbirine bağlar.
 {% endhint %}
+
+***
 
 <details>
 
@@ -121,4 +123,46 @@ Artık sunucu üzerinden tarayıcıyı açarak kurulumu tamamlayabilirsiniz.
 
 </details>
 
-***
+<details>
+
+<summary>Union Dashboard</summary>
+
+Union, **Dashboard Beta** sürümünü başlattı! Çeşitli görevleri tamamlayarak (hem sosyal hem de on-chain) **XP (puan)** kazanabiliriz. Bu puanlar ilerleyen dönemde ödüllere dönüştürülecektir.
+
+#### **Nasıl Katılabilirsiniz?**
+
+1. **Web sitesine gidin ve X hesabınızla giriş yapın.**
+
+<img src="../.gitbook/assets/1.png" alt="" data-size="original">
+
+2. **Diğer sosyal medya hesaplarınızı ve cüzdanınızı bağlayın.**![](../.gitbook/assets/2.png)
+
+3) **Görevleri tamamlayarak puan kazanın.**
+
+![](../.gitbook/assets/3.png)
+
+4. **Ayrıca başarılar elde ederek ekstra puan kazanabilirsiniz.**
+
+![](../.gitbook/assets/4.png)
+
+5. **Liderlik tablosundan ilerlemenizi takip edin.**
+
+![](../.gitbook/assets/5.png)
+
+</details>
+
+<details>
+
+<summary>Union Testnet v2</summary>
+
+Union, testnet’in yeni versiyonunu başlattı! Bu, mainnet lansmanından önce ağı test etmek için son fırsat. Testnet üzerindeki aktivitelerin yanı sıra, **Union Dashboard Beta**'daki görevleri tamamlamayı unutmayın (aşağıdaki rehbere göz atabilirsiniz).
+
+#### **Nasıl Katılabilirsiniz?**
+
+1. **Siteye gidin ve EVM ile Cosmos cüzdanlarınızı bağlayın.**![](<../.gitbook/assets/1 (1).png>)
+2. **Tüm faucet’lerden test token talep edin.**\
+   ![](<../.gitbook/assets/2 (2).png>)
+3. **"Transfer" sekmesini açın ve bir test ağından diğerine token gönderin.** Testnet üzerindeki aktivitenizi artırmak için işlemleri belirli aralıklarla gerçekleştirin.![](<../.gitbook/assets/3 (2).png>)
+
+</details>
+
