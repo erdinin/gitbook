@@ -7,7 +7,7 @@ icon: terminal
 #### Succinct **Hakkında**
 
 {% hint style="success" %}
-**Twitter | Website | Discord | Blog | Docs**&#x20;
+[**Twitter** ](https://x.com/SuccinctLabs)**|** [**Website** ](https://testnet.succinct.xyz/)**|** [**Discord** ](https://discord.gg/succinctlabs)**|** [**Explorer**](https://testnet.succinct.xyz/explorer)
 {% endhint %}
 
 {% hint style="info" %}
