@@ -6,6 +6,7 @@
 
 * [LayerEdge](testnet/layeredge.md)
 * [Gaia](testnet/gaia.md)
+* [Silent Protocol](testnet/silent.md)
 * [Union](testnet/union.md)
 
 ## finished
