@@ -7,7 +7,7 @@ icon: terminal
 #### Harpie **Hakkında**
 
 {% hint style="success" %}
-[**Twitter** ](https://x.com/harpieio)**|** [**Website** ](https://harpie.io/)**|** [**Discord** ](https://discord.gg/harpie)
+[**Twitter** ](https://x.com/harpieio)**|** [**Website** ](https://harpie.io/)**|** [**Discord** ](https://discord.gg/harpie)**|** [**Docs**](https://intercom.help/harpie/en/articles/9106954-your-harpie-dashboard)
 {% endhint %}
 
 {% hint style="info" %}
