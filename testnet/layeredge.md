@@ -18,7 +18,7 @@ icon: terminal
 
 <details>
 
-<summary>Teşvikli Testnet</summary>
+<summary>Incentivised Testnet</summary>
 
 **LayerEdge**, ödüllerin kesinleştiği bir testnet başlattı! Tarayıcı sekmesinde bir node çalıştırarak puan kazanabiliriz. Erken kullanıcı olmak için şimdiden puan kazanmaya başlamanızı öneririz.
 
@@ -37,3 +37,4 @@ icon: terminal
 8. **Task kısımındaki tüm görevleri tamamlamaya çalışın.**![](../.gitbook/assets/Screenshot_1.jpg)
 
 </details>
+
