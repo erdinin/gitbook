@@ -29,8 +29,11 @@ icon: terminal
 3. **Erişim kodunu girin:** KrZKSP4i (çalışmazsa Twitter/X üzerinden yeni bir kod bulun).![](<../.gitbook/assets/le_11737675787926 (1).png>)
 4. **"Start Node" butonuna tıklayın.** Bu şekilde puan kazanmaya başlayacaksınız.![](../.gitbook/assets/le_21737676010275.png)
 5. **Arkadaşlarınızı davet edin ve günlük ödülleri toplayın!**![](../.gitbook/assets/le_31737676075320.png)
-6. **Proofs kısımından bir proof oluşturun.**![](<../.gitbook/assets/Screenshot_1 (1).jpg>)
-7. **Mint kısımından her iki NFT i de mintleyin.**
+6. **Proofs kısımından bir proof oluşturun.**\
+   ![](<../.gitbook/assets/Screenshot_1 (1).jpg>)
+
+7) **Mint kısımından her iki NFT i de mintleyin.**
+
 8. **Task kısımındaki tüm görevleri tamamlamaya çalışın.**![](../.gitbook/assets/Screenshot_1.jpg)
 
 </details>
