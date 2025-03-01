@@ -4,6 +4,7 @@
 
 ## testnet
 
+* [LayerEdge](testnet/layeredge.md)
 * [Gaia](testnet/gaia.md)
 * [Union](testnet/union.md)
 
