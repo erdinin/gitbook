@@ -24,7 +24,7 @@ icon: terminal
 
 #### **Nasıl Katılabilirsiniz?**
 
-1. **Web sitesine gidin, cüzdanınızı ve Twitter/X hesabınızı bağlayın, kodu girin ve 10 USDC yatırın.**\
+1. [**Web sitesi**](https://testnet.succinct.xyz/dashboard)**ne gidin, cüzdanınızı ve Twitter/X hesabınızı bağlayın, kodu girin ve 10 USDC yatırın.**\
    ![](../.gitbook/assets/11.png)
 2. **"Games" sekmesini açarak mevcut tüm oyunları oynayın.** Oynadıkça yıldız kazanırsınız. Ne kadar çok yıldız toplarsanız, o kadar iyi!\
    ![](../.gitbook/assets/2.png)
