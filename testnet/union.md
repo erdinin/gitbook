@@ -135,15 +135,15 @@ Union, **Dashboard Beta** sürümünü başlattı! Çeşitli görevleri tamamlay
 
 <img src="../.gitbook/assets/1.png" alt="" data-size="original">
 
-2. **Diğer sosyal medya hesaplarınızı ve cüzdanınızı bağlayın.**![](../.gitbook/assets/2.png)
+2. **Diğer sosyal medya hesaplarınızı ve cüzdanınızı bağlayın.**![](<../.gitbook/assets/2 (1).png>)
 
 3) **Görevleri tamamlayarak puan kazanın.**
 
-![](../.gitbook/assets/3.png)
+![](<../.gitbook/assets/3 (1).png>)
 
 4. **Ayrıca başarılar elde ederek ekstra puan kazanabilirsiniz.**
 
-![](../.gitbook/assets/4.png)
+![](<../.gitbook/assets/4 (2).png>)
 
 5. **Liderlik tablosundan ilerlemenizi takip edin.**
 
