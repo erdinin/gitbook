@@ -131,7 +131,7 @@ Union, **Dashboard Beta** sürümünü başlattı! Çeşitli görevleri tamamlay
 
 #### **Nasıl Katılabilirsiniz?**
 
-1. **Web sitesine gidin ve X hesabınızla giriş yapın.**
+1. [**Web sitesi**](https://dashboard.union.build/)**ne gidin ve X hesabınızla giriş yapın.**
 
 <img src="../.gitbook/assets/1.png" alt="" data-size="original">
 
@@ -159,7 +159,7 @@ Union, testnet’in yeni versiyonunu başlattı! Bu, mainnet lansmanından önce
 
 #### **Nasıl Katılabilirsiniz?**
 
-1. **Siteye gidin ve EVM ile Cosmos cüzdanlarınızı bağlayın.**![](<../.gitbook/assets/1 (1).png>)
+1. [**Siteye gidin**](https://app.union.build/) **ve EVM ile Cosmos cüzdanlarınızı bağlayın.**![](<../.gitbook/assets/1 (1).png>)
 2. **Tüm faucet’lerden test token talep edin.**\
    ![](<../.gitbook/assets/2 (2).png>)
 3. **"Transfer" sekmesini açın ve bir test ağından diğerine token gönderin.** Testnet üzerindeki aktivitenizi artırmak için işlemleri belirli aralıklarla gerçekleştirin.![](<../.gitbook/assets/3 (2).png>)
